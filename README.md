@@ -1,16 +1,22 @@
-## Hi there 👋
+### 👋 Hi there, I'm Banikar Ruqiya Fatima 
 
-<!--
-**RuqiyaFatima11/RuqiyaFatima11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Recent graduate in **Bachelor of Science** from Osmania University  
+📊 Aspiring **Data Analyst** with a passion for uncovering insights from data  
+💻 Skilled in **Python**, **SQL**, **Excel**, **Power BI**, and **Tableau**
 
-Here are some ideas to get you started:
+📁 Working on: Personal data projects to improve real-world problem-solving  
+🤝 Open to collaboration on beginner-friendly data analysis and visualization projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tools & Tech  
+- Python (Pandas, NumPy, Matplotlib, Seaborn)  
+- SQL  
+- Power BI, Tableau  
+- Excel  
+
+
+---
+
+📫 **Reach me at**:  
+[LinkedIn](https://www.linkedin.com/in/banikar-ruqiya-fatima-49216026a/ ) • [Email](b.ruqiyafatima@gmail.com)
